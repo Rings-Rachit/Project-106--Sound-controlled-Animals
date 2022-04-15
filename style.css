@@ -1,0 +1,31 @@
+body{
+    background-image:linear-gradient( indianred ,#00B09B, #96C93D);
+}
+#title_div{
+    background-color:indianred;
+}
+#title{
+    color:antiquewhite; 
+    font-family: 'Didact Gothic', sans-serif;
+    font-size:50px
+}
+#subtitle{
+    color:antiquewhite;
+    font-family: 'Artifika', serif;
+    font-size:25px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 2px yellow;
+}
+#footer{
+    background-color:lawngreen;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    height:30px;
+    padding-top:5px;
+    letter-spacing: 1px;
+
+}
+.btn{
+    margin-top: 10px;
+}
